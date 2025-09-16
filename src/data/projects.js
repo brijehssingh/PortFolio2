@@ -4,7 +4,7 @@ export const projects = [
     title: "Personal Portfolio Website",
     desc: "Responsive portfolio built with React + DaisyUI.",
     tech: ["React", "Tailwind", "DaisyUI"],
-    link: "/projects#portfolio-site",
+    link: "https://portfolio3-voev.onrender.com",
   },
   {
     id: "ecommerce",
