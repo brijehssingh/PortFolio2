@@ -58,7 +58,7 @@ export default function Home() {
               <div className="mt-6 stats bg-base-100 shadow-sm rounded-2xl w-full sm:w-auto">
                 <div className="stat">
                   <div className="stat-title">Projects</div>
-                  <div className="stat-value text-primary">10+</div>
+                
                   <div className="stat-desc">React • Node • AI</div>
                 </div>
                 <div className="stat">
