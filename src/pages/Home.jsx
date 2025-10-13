@@ -45,13 +45,7 @@ export default function Home() {
                   className="btn btn-outline btn-lg hover:btn-secondary transition"
                 >
                   GitHub
-                </a>
-                 <a
-                  href="/brijesh resume.pdf"
-                  className="btn btn-ghost btn-lg hover:bg-base-300 transition"
-                >
-                  Download Resume
-                </a>
+               
               </div>
 
               {/* quick stats */}
