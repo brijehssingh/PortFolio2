@@ -63,12 +63,12 @@ export default function Home() {
                 <div className="stat">
                   <div className="stat-title">Projects</div>
                   <div className="stat-value">12+</div>
-                  <div className="stat-desc">React • Node • AI</div>
+                  <div className="stat-desc">React • Node </div>
                 </div>
                 <div className="stat">
                   <div className="stat-title">Focus</div>
                   <div className="stat-value text-secondary">Full-stack</div>
-                  <div className="stat-desc">Web • Infra • ML</div>
+                  <div className="stat-desc">Web • Infra </div>
                 </div>
               </div>
             </div>
