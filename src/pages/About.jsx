@@ -69,7 +69,7 @@ export default function About() {
             I’m open to internships, freelance, and project collaborations.
           </p>
           <div className="card-actions">
-            <a href="/resume.pdf" className="btn btn-primary">Download Resume</a>
+            <a href="/brijesh resume.pdf" className="btn btn-primary">Download Resume</a>
             <a href="mailto:brijeshkumar4705r@gmail.com" className="btn btn-outline">Email Me</a>
           </div>
         </div>
