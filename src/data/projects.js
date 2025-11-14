@@ -7,11 +7,11 @@ export const projects = [
     link: "https://portfolio3-voev.onrender.com",
   },
   {
-    id: "ecommerce",
+    id: "food-apk",
     title: "E-Commerce App",
     desc: "Product listing, filters, cart, and checkout flow.",
     tech: ["React", "Redux", "Node.js"],
-    link: "https://shoopingapk.onrender.com",
+    link: "https://food-app-sandy-pi.vercel.app/",
   },
   
   {
@@ -19,6 +19,6 @@ export const projects = [
     title: "Chat Application",
     desc: "Real-time messaging with user presence.",
     tech: ["React", "Socket.io", "Express"],
-    link: "/projects#chat-app",
+    link: "https://github.com/brijehssingh/dev-tinder-apk",
   },
 ];
