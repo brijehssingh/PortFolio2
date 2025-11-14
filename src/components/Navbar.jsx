@@ -59,7 +59,7 @@ export default function Navbar() {
       {/* Right side */}
       <div className="navbar-end gap-3">
        <a
-  href="/brijesh resume.pdf"
+  href="/brijesh_resume (14).pdf"
   target="_blank"
   rel="noreferrer"
   className="btn btn-primary"
