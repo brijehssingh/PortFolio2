@@ -14,7 +14,7 @@ export default function Home() {
             <div className="avatar place-self-center lg:place-self-start">
               <div className="w-44 rounded-2xl ring ring-primary ring-offset-base-100 ring-offset-2 shadow-xl hover:scale-105 transition-transform duration-300 overflow-hidden">
                 <img
-                  src="https://media.licdn.com/dms/image/v2/D4D03AQFLf-aZWv4wJQ/profile-displayphoto-shrink_400_400/B4DZU19aIYHYAg-/0/1740367047269?e=1762992000&v=beta&t=OB-n_Y9XpoC1sP8XHHm_MEiPYxE_UfZlPcoF9JEIg_U"
+                  src="https://www.geeksforgeeks.org/_next/image/?url=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fauth%2Fprofile%2Fbcpkmm5dlvr66kaf7zmo&w=256&q=75"
                   alt="Brijesh Singh"
                   loading="lazy"
                   referrerPolicy="no-referrer"
